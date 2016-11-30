@@ -1,0 +1,14 @@
+<xml>
+    <child>
+        <grandchild>grandchildcontent</grandchild>
+        <item>
+            <value blah="1">foo</value>
+        </item>
+        <item>
+            <value blah="2">bar</value>
+        </item>
+        <item>
+            <value blah="3">baz</value>
+        </item>
+    </child>
+</xml>
